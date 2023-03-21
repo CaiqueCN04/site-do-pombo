@@ -1,0 +1,22 @@
+#pombo{
+ margin-left: 120px;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#butao{
+    border-radius: 40px;
+    border: solid; 
+    border-color: aqua;
+    background-color: aqua;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
